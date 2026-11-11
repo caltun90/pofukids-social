@@ -35,7 +35,7 @@ days = [("single_steps.jpg","reel20_feelings.mp4","reel15_burger.mp4"),
         ("single_puzzle.jpg","reel25_garden.mp4","reel8_shadow.mp4"),
         ("single_shapetrain.jpg","reel9_hideseek.mp4","reel12_coloring.mp4"),
         ("single_memory.jpg","reel22_puzzle.mp4",None)]
-times = ["13:00","18:00","22:00"]
+times = ["11:00","14:00","17:00"]
 plan = []
 for d, trio in enumerate(days):
     date = f"2026-11-{11+d:02d}"
