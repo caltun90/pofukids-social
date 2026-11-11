@@ -4,6 +4,8 @@ Instagram @pofukids, ENGLISH captions only, no em dashes, max 5 hashtags, single
 
 - Buffer org `6ae39aa9d09e51b79d4807b8` (Europe/Istanbul, free plan: max 10 scheduled posts per channel). Pofu Kids Instagram channel `6af3aa3762b70b94b0eb79af` (business). Do NOT touch the Engrow channels.
 - Daily slots: 11:00 photo, 14:00 reel, 17:00 reel (Cem, 11.11.2026) (Istanbul, +03:00).
+- **Never post a silent photo (Cem, 11.11.2026: "Basitçe seslendirelim demiştim. Boş fotoğraf paylaşmışsın.").** The 11:00 "photo" slot goes out as a short voiced reel: `python3 tools/photo_reel.py media/single_<x>.jpg <voice.wav> <seed> media/photo_<x>.mp4` (photo centered on its blurred copy, slow zoom, one Nika parent-style line ending with "Pofu Kids, free on the App Store.", light music from `tools/light_music.py`, different per seed). In plan.json these entries are `kind: reel`, `file: photo_<x>.mp4`, `photo_source: single_<x>.jpg`.
+- Nika note: the single-request TTS sometimes reads the style prompt aloud first (photos1: first ~21 s). Find each line's end with MFCC DTW on the closing phrase and check speech rate (12-16 chars/s) before cutting.
 - `plan.json` = the queue: date, time, file, kind, public url (`https://raw.githubusercontent.com/caltun90/pofukids-social/main/media/<file>`), text (final caption), buffer_id once scheduled.
 - Photo post: `create_post` with image asset (+ altText), `metadata.instagram {type:"post", shouldShareToFeed:true}`. Reel: video asset, `{type:"reel", shouldShareToFeed:true}`. `schedulingType:"automatic"`, `mode:"customScheduled"`, `dueAt` with +03:00.
 - Keep about 3 days scheduled (9 posts, under the 10 limit). Before creating, `list_posts` (scheduled) for the channel and skip anything already scheduled with the same media URL.
