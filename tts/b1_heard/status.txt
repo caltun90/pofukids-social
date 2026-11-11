@@ -1,0 +1,269 @@
+OK
+transcribe gemini-3.8-flash: The read operation timed out
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: The read operation timed out
+heard tts_seg/b1/r00.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 503: Service Unavailable
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 503: Service Unavailable
+heard tts_seg/b1/r01.wav: ?
+transcribe gemini-3.8-flash: The read operation timed out
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 503: Service Unavailable
+heard tts_seg/b1/r02.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 503: Service Unavailable
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 503: Service Unavailable
+heard tts_seg/b1/r03.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 503: Service Unavailable
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 503: Service Unavailable
+heard tts_seg/b1/r04.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 503: Service Unavailable
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r05.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 503: Service Unavailable
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 503: Service Unavailable
+heard tts_seg/b1/r06.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r07.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r08.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 503: Service Unavailable
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r09.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r10.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r11.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r12.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r13.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r14.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r15.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r16.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r17.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r18.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r19.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r20.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r21.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r22.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r23.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r24.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r25.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r26.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r27.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r28.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r29.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r30.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r31.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r32.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r33.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r34.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r35.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r36.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r37.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r38.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r39.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r40.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r41.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r42.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r43.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r44.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r45.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r46.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r47.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r48.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r49.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r50.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r51.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r52.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r53.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r54.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r55.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r56.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r57.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r58.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r59.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r60.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r61.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r62.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/b1/r63.wav: ?
+transcribe gemini-3.8-flash: The read operation timed out
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: The read operation timed out
+heard tts_seg/b1/r64.wav: ?
+transcribe gemini-3.8-flash: The read operation timed out
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: The read operation timed out
+heard tts_seg/b1/r65.wav: ?
+transcribe gemini-3.8-flash: The read operation timed out
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 503: Service Unavailable
+heard tts_seg/b1/r66.wav: ?
