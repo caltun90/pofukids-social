@@ -1,0 +1,13 @@
+OK
+transcribe gemini-3.8-flash: Remote end closed connection without response
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/photos1_chk/a.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/photos1_chk/b.wav: ?
+transcribe gemini-3.8-flash: HTTP Error 429: Too Many Requests
+transcribe gemini-2.5-flash: HTTP Error 404: Not Found
+transcribe gemini-flash-latest: HTTP Error 429: Too Many Requests
+heard tts_seg/photos1_chk/c.wav: ?
